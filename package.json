@@ -21,4 +21,4 @@
     "sqlite3": "^5.1.7"
   }
 }
-npm install @supabase/supabase-js
+
